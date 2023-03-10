@@ -1,6 +1,6 @@
 <p align=center>
-  <a href="https://reactos.org/">
-    <img alt="ReactOS" src="(https://github.com/ceohobo1986/CYR-OS/tree/master/modules/wallpapers/cyrOS_transparent0.png)">
+  <a href="https://cyrOS.mitmotion.co.za/">
+    <img alt="cyr#OS" src="https://github.com/ceohobo1986/CYR-OS/tree/master/modules/wallpapers/cyrOS_transparent0.png">
   </a>
 </p>
 
