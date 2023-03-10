@@ -8,10 +8,10 @@
 
 <p align=center>
   <a href="https://reactos.org/project-news/reactos-0414-released/">
-    <img alt="ReactOS 0.4.14 Release" src="https://img.shields.io/badge/release-0.4.14-0688CB.svg">
+    <img alt="cyr#OS v0.1a Release" src="https://img.shields.io/badge/release-0.4.14-0688CB.svg">
   </a>
-  <a href="https://reactos.org/download/">
-    <img alt="Download ReactOS" src="https://img.shields.io/badge/download-latest-0688CB.svg">
+  <a href="https://cyros.org/download/">
+    <img alt="Download cyr#OS" src="https://img.shields.io/badge/download-latest-0688CB.svg">
   </a>
   <a href="https://sourceforge.net/projects/reactos/">
     <img alt="SourceForge Download" src="https://img.shields.io/sourceforge/dm/reactos.svg?colorB=0688CB">
